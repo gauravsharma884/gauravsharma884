@@ -4,8 +4,7 @@
 
 
 
-Hi, I'm Gaurav 👋, pursuing PGDM- Big Data Analytics from [FORE SCHOOL OF MANAGEMENT](https://www.fsm.ac.in)
-
+Hi, I'm Gaurav 👋, currently pursuing PGDM- Big Data Analytics from [FORE SCHOOL OF MANAGEMENT](https://www.fsm.ac.in). 
 
 
 
