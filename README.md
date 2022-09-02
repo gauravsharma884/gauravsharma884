@@ -1,6 +1,6 @@
+<img width="1208" alt="Screenshot 2022-09-02 at 11 15 05 PM" src="https://user-images.githubusercontent.com/93240943/188209239-028b77d7-d02d-4adb-83cf-269aa282e5e5.png">
 
 
-![Fin626-Superanalytic-Man](https://user-images.githubusercontent.com/93240943/188201202-e72a1281-6a40-4c0b-81f1-281dc95ada49.jpeg)
 
 
 
