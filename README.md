@@ -5,7 +5,7 @@
 
 
 
-Hi, I'm Gaurav 👋, currently pursuing PGDM- Big Data Analytics from [FORE SCHOOL OF MANAGEMENT](https://www.fsm.ac.in). Experienced Data Analyst, proficient in predictive modeling, data handling, scripting languages such as python, SQL and R. Capable of creating and developing highly adaptive diverse services to translate business functional qualifications into susbtantial deliverables.
+Hi, I'm Gaurav 👋, currently working as Industrial Business Analyst at HCL Tech. Experienced Data Analyst, proficient in predictive modeling, data handling, scripting languages such as python, SQL and R. Capable of creating and developing highly adaptive diverse services to translate business functional qualifications into susbtantial deliverables.
 
 
 
